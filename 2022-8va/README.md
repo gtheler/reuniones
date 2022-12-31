@@ -234,7 +234,7 @@ De todos, claramente el desarrollo de Christian Dacal (y el equipo
 involucrado) es un gran avance en este sentido.
 
 Durante la discusión se mencionó que un recambio sale del orden de
-$10^8~\text{US\$}$, y eso debería tenerse en mente al momento de pedir apoyo
+$10^8~\text{USD}$, y eso debería tenerse en mente al momento de pedir apoyo
 institucional para este desarrollo.
 
 Se mencionó también que una incerteza de 5% en márgenes TH implica mucho
