@@ -12,8 +12,7 @@ Este repositorio tiene asociado un foro de discusiones donde se irán tratando l
 Cree un fork de este respositorio público con su usuario de Gihub y haga un pull request con las modificaciones sugeridas.
 Si necesita ayuda, pregunte en el foro. Iremos dando más instrucciones a medida que hacemos camino andando.
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)\ This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
